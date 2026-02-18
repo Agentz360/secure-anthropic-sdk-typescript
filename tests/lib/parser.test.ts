@@ -485,6 +485,7 @@ describe('GA Parser', () => {
         service_tier: null,
         inference_geo: null,
       },
+      container: null,
     };
 
     it('parses structured output correctly', () => {
@@ -658,6 +659,7 @@ describe('GA Parser', () => {
         service_tier: null,
         inference_geo: null,
       },
+      container: null,
     };
 
     it('parses when params have auto-parseable input', () => {
