@@ -52,6 +52,7 @@ Types:
 - <code><a href="./src/resources/messages/messages.ts">CodeExecutionResultBlockParam</a></code>
 - <code><a href="./src/resources/messages/messages.ts">CodeExecutionTool20250522</a></code>
 - <code><a href="./src/resources/messages/messages.ts">CodeExecutionTool20250825</a></code>
+- <code><a href="./src/resources/messages/messages.ts">CodeExecutionTool20260120</a></code>
 - <code><a href="./src/resources/messages/messages.ts">CodeExecutionToolResultBlock</a></code>
 - <code><a href="./src/resources/messages/messages.ts">CodeExecutionToolResultBlockContent</a></code>
 - <code><a href="./src/resources/messages/messages.ts">CodeExecutionToolResultBlockParam</a></code>
@@ -99,6 +100,7 @@ Types:
 - <code><a href="./src/resources/messages/messages.ts">RedactedThinkingBlockParam</a></code>
 - <code><a href="./src/resources/messages/messages.ts">SearchResultBlockParam</a></code>
 - <code><a href="./src/resources/messages/messages.ts">ServerToolCaller</a></code>
+- <code><a href="./src/resources/messages/messages.ts">ServerToolCaller20260120</a></code>
 - <code><a href="./src/resources/messages/messages.ts">ServerToolUsage</a></code>
 - <code><a href="./src/resources/messages/messages.ts">ServerToolUseBlock</a></code>
 - <code><a href="./src/resources/messages/messages.ts">ServerToolUseBlockParam</a></code>
@@ -155,9 +157,11 @@ Types:
 - <code><a href="./src/resources/messages/messages.ts">URLImageSource</a></code>
 - <code><a href="./src/resources/messages/messages.ts">URLPDFSource</a></code>
 - <code><a href="./src/resources/messages/messages.ts">Usage</a></code>
+- <code><a href="./src/resources/messages/messages.ts">UserLocation</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebFetchBlock</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebFetchBlockParam</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebFetchTool20250910</a></code>
+- <code><a href="./src/resources/messages/messages.ts">WebFetchTool20260209</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebFetchToolResultBlock</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebFetchToolResultBlockParam</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebFetchToolResultErrorBlock</a></code>
@@ -166,12 +170,14 @@ Types:
 - <code><a href="./src/resources/messages/messages.ts">WebSearchResultBlock</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchResultBlockParam</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchTool20250305</a></code>
+- <code><a href="./src/resources/messages/messages.ts">WebSearchTool20260209</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchToolRequestError</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchToolResultBlock</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchToolResultBlockContent</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchToolResultBlockParam</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchToolResultBlockParamContent</a></code>
 - <code><a href="./src/resources/messages/messages.ts">WebSearchToolResultError</a></code>
+- <code><a href="./src/resources/messages/messages.ts">WebSearchToolResultErrorCode</a></code>
 - <code><a href="./src/resources/messages/messages.ts">MessageStreamEvent</a></code>
 - <code><a href="./src/resources/messages/messages.ts">MessageStartEvent</a></code>
 - <code><a href="./src/resources/messages/messages.ts">MessageDeltaEvent</a></code>
